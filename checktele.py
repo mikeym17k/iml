@@ -164,7 +164,7 @@ async def _(event):
 async def _(event):
 	try:
     	await sython(functions.channels.JoinChannelRequest(
-    	channel='MAX985'
+    	channel='V_M_S'
     	))
     if ispay2[0] == "yes":
         isclaim.clear()
